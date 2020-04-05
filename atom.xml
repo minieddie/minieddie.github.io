@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-04-03T15:45:41.020Z</updated>
+  <updated>2020-04-05T16:42:10.192Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>免费CDN：jsDelivr+Github 使用方法</title>
+    <link href="/2020/04/06/%E5%85%8D%E8%B4%B9CDN%EF%BC%9AjsDelivr-Github-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    <id>/2020/04/06/免费CDN：jsDelivr-Github-使用方法/</id>
+    <published>2020-04-05T16:25:56.000Z</published>
+    <updated>2020-04-05T16:42:10.192Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;CDN的全称是Content Delivery
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="CDN, jsDelivr" scheme="/tags/CDN-jsDelivr/"/>
+    
+  </entry>
   
   <entry>
     <title>清明</title>
